@@ -4,5 +4,5 @@
  {"ID":"CCCCC","PName":"SEPHORA BODY LOTION","GName":"SEPHO BL","CP":"30.99","MSRP":"1.12","QHand":"50","QBackOrder":"200","DES":"Sentless moisturising body cream","BRAND":"SHEPHORA"},
  {"ID":"DDDDD","PName":"TRACK SUIT","GName":"T-SUIT","CP":"205.49","MSRP":"15.12","QHand":"10","QBackOrder":"10","DES":"Casual cotton made for cold weather","BRAND":"NIKE"},
  {"ID":"EEEEE","PName":"LEGGINGS","GName":"LEGS","CP":"15.99","MSRP":"1.12","QHand":"40","QBackOrder":"20","DES":"Pure cotton made","BRAND":"EILEEN FISHER"},
- {"ID":"FFFFF","PName":"SWEAT PANT","GName":"S-PANT","CP":"40.99","MSRP":"1.89","QHand":"55","QBackOrder":"29","DES":"Comfort wear","BRAND":"PUMA"},
+ {"ID":"FFFFF","PName":"SWEAT PANT","GName":"S-PANT","CP":"40.99","MSRP":"1.89","QHand":"55","QBackOrder":"29","DES":"Comfort wear","BRAND":"PUMA"}
 ]
